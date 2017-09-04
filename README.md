@@ -1,2 +1,2 @@
 # C-C-coding-practice
-This repository has my C++/C codw
+This repository has my C++/C code
